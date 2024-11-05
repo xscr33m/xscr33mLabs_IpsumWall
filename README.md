@@ -1,3 +1,9 @@
+[![Pricing](https://img.shields.io/badge/Price-Free-green?style=for-the-badge&color=green)](https://github.com/xscr33m/xscr33mLabs_IpsumWall/)
+[![Downloads](https://img.shields.io/github/downloads/xscr33m/xscr33mLabs_IpsumWall/total?style=for-the-badge&color=gold)](https://github.com/xscr33m/xscr33mLabs_IpsumWall/releases)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xscr33m/xscr33mLabs_IpsumWall/dev?style=for-the-badge&color=gold)](https://github.com/xscr33m/xscr33mLabs_IpsumWall/commits/dev/)
+[![GitHub License](https://img.shields.io/github/license/xscr33m/xscr33mLabs_IpsumWall?style=for-the-badge&color=gold)](https://github.com/xscr33m/xscr33mLabs_IpsumWall/)
+[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/PasvscT4Nh)
+
 # xscr33mLabs IpsumWall
  The fastest way to block suspicious IPs in your Windows Firewall!
 
