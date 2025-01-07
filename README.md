@@ -2,7 +2,7 @@
 [![Downloads](https://img.shields.io/github/downloads/xscr33m/xscr33mLabs_IpsumWall/total?style=for-the-badge&color=gold)](https://github.com/xscr33m/xscr33mLabs_IpsumWall/releases)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xscr33m/xscr33mLabs_IpsumWall/dev?style=for-the-badge&color=gold)](https://github.com/xscr33m/xscr33mLabs_IpsumWall/commits/dev/)
 [![GitHub License](https://img.shields.io/github/license/xscr33m/xscr33mLabs_IpsumWall?style=for-the-badge&color=gold)](https://github.com/xscr33m/xscr33mLabs_IpsumWall/)
-[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/PasvscT4Nh)
+[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/5CrDj8ba6C)
 
 # xscr33mLabs IpsumWall
  The fastest way to block suspicious IPs in your Windows Firewall!
@@ -84,3 +84,25 @@ This PowerShell script automates initial configurations for a Windows Server, fo
 
 - **Compatibility**: This script is designed for Windows Server environments.
 - **Script Permissions**: The script must be run as an administrator for full functionality.
+
+
+---
+</br> 
+</br> 
+
+## Feedback
+
+If you have any feedback, please reach out to me!
+I would appreciate it very much! 
+
+[Join the Discord](https://discord.gg/5CrDj8ba6C)
+
+[Buy me a coffee](https://www.paypal.com/paypalme/dheil53)
+
+# Made with ♥ for this amazing community!
+
+## Contributing
+
+If you are interested in contributing to this project or making adjustments, please feel free to contact me for more information or to discuss ideas and suggestions. (Discord: xscr33m#4443)
+
+I look forward to your collaboration!
